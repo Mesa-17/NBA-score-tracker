@@ -1,2 +1,5 @@
-streamlit
-streamlit-autorefresh
+streamlit>=1.30
+streamlit-autorefresh>=0.1.4
+nba_api>=1.1.11
+requests
+pandas
